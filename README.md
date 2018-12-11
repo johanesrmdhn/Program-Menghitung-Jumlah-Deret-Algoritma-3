@@ -1,1 +1,1 @@
-# Program-Menghitung-Jumlah-Deret-Algoritma-3
+# Program-Menghitung Jumlah Deret
