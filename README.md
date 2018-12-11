@@ -1,1 +1,1 @@
-# Program-Menghitung Jumlah Deret
+# Program Menghitung Jumlah Deret
